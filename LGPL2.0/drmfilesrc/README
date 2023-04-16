@@ -1,0 +1,15 @@
+
+WHAT IT IS
+----------
+
+it is plugin for drmfile decrypt when using file io supported drm vendor.
+
+HOW TO USE IT
+-------------
+
+1. install gstreamer1.02
+2. install glib
+3. check CMakeLists.txt for include header and change include path to your install path
+4. do "cmake ."
+5. do "make"
+

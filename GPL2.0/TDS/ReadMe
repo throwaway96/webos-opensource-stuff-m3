@@ -1,0 +1,21 @@
+TelephonyDataService
+====================
+
++ Dependencies
+ Items below are required to build TelephonyDataService
+
+ - glib-2.0
+ - pmloglib
+ - luna-service2
+ - libpbnjson
+ - glibmm
+ - dbus
+ - boost
+
+
++ How to compile
+ 1. set your toolchain path (ex. export PATH=(toolchainPath):$PATH)
+ 2. extract TelephonyDataService source
+ 3. cd (TelephonyDataService directory)
+ 4. make
+
